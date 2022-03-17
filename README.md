@@ -57,6 +57,7 @@
 * * 
 * 
 ```
+#### [Source Code](pattern05.java)
 
 ### Pattern 6
 ```
