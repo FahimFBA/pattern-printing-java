@@ -44,7 +44,7 @@
 1 2 3 
 1 2 3 4 
 ```
-
+#### [Source Code](pattern04.java)
 ### Pattern 5
 ```
 * 
