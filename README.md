@@ -1,5 +1,8 @@
 # pattern-printing-java
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/FahimFBA/pattern-printing-java/pages%20build%20and%20deployment?style=for-the-badge) 
+![Total Lines of Code](https://img.shields.io/tokei/lines/github/FahimFBA/pattern-printing-java?style=for-the-badge)
+![License](https://img.shields.io/github/license/FahimFBA/pattern-printing-java?style=for-the-badge)
 ## Note
 1. Number of lines = number of rows = number times the outer loop will run
 2. Identify for every row numbers, how many columns are there or types of elements in the column
