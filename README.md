@@ -71,7 +71,7 @@
    * *
     *
 ```
-
+#### [Source Code](pattern06.java)
 ### Pattern 7
 ```
         1 
