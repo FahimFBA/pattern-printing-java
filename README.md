@@ -16,6 +16,7 @@
 * * * 
 * * * * 
 ```
+#### [Source Code](pattern01.java)
 
 ### Pattern 2
 
